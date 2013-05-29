@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.data-packet.firstapp"
+    version   = "1.0.0">
+
+<name>Data Packet First Application</name>
+
+<description>
+Data PacketFirst App
+</description>
+
+<author href="http://data-packet.com" email="apps@data-packet.com">
+Data Packet Solutions
+</author>
+
+</widget>
